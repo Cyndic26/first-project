@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color:red;
+}
+
+.title {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.episode-number {
+    color: blue;
+    font-size: smaller;
+}
+
+h2 {
+    color:crimson;
+}
+
+
